@@ -1,7 +1,6 @@
 # **Data-Structures-Using-Python**
 
-## Arrays
-***
+## Arrays  https://www.youtube.com/watch?v=OR9J3hTOhGc&t=18s
  * Array Operations
     * Insertion
     * Deletion
@@ -16,8 +15,7 @@
 	  * One time
 	  * K times
     
-## Stack
-***
+## Stack  https://www.youtube.com/watch?v=YVis8an3VNU&t=430s
 * Basic Stack Operations
   * PUSH
   * POP
